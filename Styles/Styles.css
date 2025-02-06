@@ -1,0 +1,68 @@
+
+.circle{
+    width: 75px;
+    height: 75px;
+    background-color: white;
+    border-radius: 50%; 
+    border-width: 3px;     
+}
+.card{
+    background-color: rgb(240, 208, 242);
+    align-items: center;
+    justify-content: center;
+}
+.card-body{
+    text-align: center;
+}
+.card-title{
+    font-weight: bold;
+}
+.card-text{
+    font-weight: bold;
+}
+body {
+    margin: 0;
+    padding-bottom: 100px;
+    background-color: #f5f2f6;
+}
+
+header {
+    background-color: rgb(4, 2, 33);
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+}
+.custom-box {
+    background-color: #b3d6fb;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    height: 75px;
+}
+.custom-text {
+    padding-top: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.custom-nav-button{
+    border-width: 2px;
+}
+.custom-navbar {
+    border-width: 5px; 
+    height: 80px;
+}
+.custom-paragraph-row{
+    height: 100px;
+}
+.logo {
+    width: 100px; 
+    height: 30px; 
+    border-width: 2px;
+}
